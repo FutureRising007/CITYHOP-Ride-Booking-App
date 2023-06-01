@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "748452830935",
+    "firebase_url": "https://cityhop-ride-booking-app-default-rtdb.firebaseio.com",
+    "project_id": "cityhop-ride-booking-app",
+    "storage_bucket": "cityhop-ride-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748452830935:android:ec5116bf5e732f826e1a92",
+        "android_client_info": {
+          "package_name": "com.kaifahmed.cityhopdrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748452830935-iku5cl6rrfctmct6k03brn99v473voga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzDEAdEJ-HRVRoaL0bee2uBt8SEg7-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748452830935-iku5cl6rrfctmct6k03brn99v473voga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748452830935:android:a5acdc3976c3698e6e1a92",
+        "android_client_info": {
+          "package_name": "com.kaifahmed.cityhopusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748452830935-iku5cl6rrfctmct6k03brn99v473voga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzDEAdEJ-HRVRoaL0bee2uBt8SEg7-LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748452830935-iku5cl6rrfctmct6k03brn99v473voga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
