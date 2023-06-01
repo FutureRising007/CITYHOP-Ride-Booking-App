@@ -1,4 +1,17 @@
+<!-- <a href="https://aimeos.org/">
+    <img src="https://github.com/FutureRising007/CITYHOP-Ride-Booking-App/assets/76934889/81880f3e-7acd-4ee7-ae63-7fd6dc3d6266" alt="CityHop Logo" title="CityHop" align="right" height="90" />
+</a> -->
+
 # **CITYHOP Ride Booking App** 🚗
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png" alt="Flutter Logo" width="80" height="20">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart Logo" width="80" height="30">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Logo" width="80" height="30">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase Logo" width="80" height="30">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/mohammad-kaif-ahmed/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 
 Welcome to CityHop, the revolutionary ride booking app that redefines your travel experience! 🌟
 
