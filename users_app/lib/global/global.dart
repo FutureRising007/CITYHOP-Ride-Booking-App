@@ -10,7 +10,7 @@ UserModel? userModelCurrentInfo;
 List dList = []; //online-active drivers Information List
 DirectionDetailsInfo? tripDirectionDetailsInfo;
 String? chosenDriverId="";
-String cloudMessagingServerToken = "key=AAAArkND3tc:APA91bHgwBXWaDNR2sIVwO_uZSTwuAbTjxz2vMga9Z96AeRF6M5SWi6oLJkFOdPzHROe4kcwfS5Un5dxFsFHyg6HdHAGNi0GrAEigNAp3ChoL3qeEkCt2ltjNGBLI5YsUjPCjLvDcqLF";
+String cloudMessagingServerToken = "key=YOUR-CLOUD-MESSAGING-SERVER-TOKEN-HERE";
 String userDropOffAddress = "";
 String driverCarDetails="";
 String driverName="";
