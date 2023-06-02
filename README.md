@@ -33,6 +33,19 @@ To get started with CityHop, follow these simple steps:
    ```bash
    git clone https://github.com/your-username/cityhop-app.git
    
+2. Configure the Application - 
+    * Setting up Google Firebase & Generating the API-KEY-TOKEN for both the applications.
+      * 
+      * Refer the following [Youtube Video](https://www.youtube.com/watch?v=FpSfvOVzCLE "Youtube Video") for Setting up Firebase and generating the API-KEY-TOKEN.
+      * Remember to change the API_KEY_TOKEN wherever necessary in the project files.
+      
+    * Setting up the Google API for the applications. 
+        * Refer the following [Youtube Video](https://www.youtube.com/watch?v=xwJVkaCkNws "Youtube Video") for Setting up Google API. 
+        * You need to Login with the same E-Mail ID by which you made the Google Firebase account.
+         
+    * Setting up FCM Firebase for Push Notification & Generating the CLOUD-MESSAGING-SERVER-TOKEN for both the applications.
+        * Refer the following [Youtube Video](https://www.youtube.com/watch?v=2tjuUwNx6qk "Youtube Video") for Setting up the Push Notification using FCM Firebase.
+   
 2. Install the required dependencies:
 
    ```bash
@@ -42,6 +55,7 @@ To get started with CityHop, follow these simple steps:
 
    ```bash
    flutter build apk
+   
    
    
 ## Application Demo 📽️
